@@ -1,5 +1,7 @@
+category_encoders
 matplotlib
 notebook
 numpy
 pandas
+scikit-learn
 seaborn

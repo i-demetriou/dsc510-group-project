@@ -1,5 +1,6 @@
 category_encoders
 matplotlib
+mlxtend
 notebook
 numpy
 pandas

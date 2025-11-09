@@ -1,8 +1,11 @@
 category_encoders
+joblib
+fastparquet
 matplotlib
 mlxtend
 notebook
 numpy
 pandas
+scipy
 scikit-learn
 seaborn

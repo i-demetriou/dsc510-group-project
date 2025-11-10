@@ -1,5 +1,6 @@
 category_encoders
 joblib
+jupytext
 fastparquet
 matplotlib
 mlxtend
@@ -8,4 +9,5 @@ numpy
 pandas
 scipy
 scikit-learn
+statsmodels
 seaborn
